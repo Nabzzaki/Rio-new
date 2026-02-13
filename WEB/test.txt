@@ -1,0 +1,44 @@
+===========================================feature====================================================== 
+
+{🧠 Intelligence & AI
+
+AI vision camera (facial recognition + tracking)
+
+Real-time environmental mapping
+
+Autonomous navigation system
+
+Voice command recognition
+
+Emotion-style LED expression panel
+
+🛡️ Safety & Sensors
+
+Obstacle detection sensors
+
+LiDAR / depth sensing module
+
+Real-time positioning system
+
+Return-to-home feature
+
+✈️ Flight & Engineering
+
+Quad-rotor propulsion system
+
+Silent flight technology
+
+Stabilized gimbal system
+
+Lightweight aerodynamic body
+
+Carbon-fiber composite frame
+
+🔋 Power & Performance
+
+Smart battery management
+
+Solar-assisted charging (top panel idea)
+
+Heat-protected AI core}
+=============================================================================================================
