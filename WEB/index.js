@@ -17,10 +17,10 @@ app.get("/", (req, res) => {
     res.render("home")
 })
 
-
-app.listen(1210, () => {
+const PORT = process.env.PORT || 1210;
+app.listen(PORT, () => {
     console.log("==========================================")
-    console.log("localhost:1210")
+    console.log(`localhost:${PORT}`)
     console.log("==========================================")
 })
 
